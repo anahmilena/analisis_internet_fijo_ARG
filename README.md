@@ -7,6 +7,8 @@ El repositorio contiene los siguientes archivos y carpetas:
 
 EDA-xtreme.ipynb: Jupyter Notebook que contiene el análisis exploratorio de datos (EDA). En este notebook, se documentan los pasos realizados para el análisis, se presentan gráficos y se incluyen conclusiones. También se construyen tres KPIs importantes para el análisis requerido.
 
+dashboard.pbix: Dashboard con las visualizaciones clave que nos llevan a identificar oportunidades de crecimiento y potenciales clientes, basados en los 3 KPIs construidos en el EDA.
+
 /Dataset: Contiene todos los datasets que fueron necesarios para el análisis, los cuales están listados en el apartado "Datasets utilizados".
 
 ### Descripción del Proyecto
